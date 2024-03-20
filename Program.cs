@@ -356,14 +356,5 @@ namespace Tic_Tac_Toe_0._2
                 default: return null;
             }            
         }
-
-        static public bool Win()
-        {
-
-
-
-            return false;
-        }
-
     }
 }
