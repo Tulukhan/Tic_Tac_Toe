@@ -1,0 +1,7 @@
+C:\Users\tuluh\OneDrive\Masaüstü\Programs\C#\Tic_Tac_Toe_0.2\obj\Debug\Tic_Tac_Toe_0.2.csproj.AssemblyReference.cache
+C:\Users\tuluh\OneDrive\Masaüstü\Programs\C#\Tic_Tac_Toe_0.2\obj\Debug\Tic_Tac_Toe_0.2.csproj.CoreCompileInputs.cache
+C:\Users\tuluh\OneDrive\Masaüstü\Programs\C#\Tic_Tac_Toe_0.2\bin\Debug\Tic_Tac_Toe_0.2.exe.config
+C:\Users\tuluh\OneDrive\Masaüstü\Programs\C#\Tic_Tac_Toe_0.2\bin\Debug\Tic_Tac_Toe_0.2.exe
+C:\Users\tuluh\OneDrive\Masaüstü\Programs\C#\Tic_Tac_Toe_0.2\bin\Debug\Tic_Tac_Toe_0.2.pdb
+C:\Users\tuluh\OneDrive\Masaüstü\Programs\C#\Tic_Tac_Toe_0.2\obj\Debug\Tic_Tac_Toe_0.2.exe
+C:\Users\tuluh\OneDrive\Masaüstü\Programs\C#\Tic_Tac_Toe_0.2\obj\Debug\Tic_Tac_Toe_0.2.pdb
